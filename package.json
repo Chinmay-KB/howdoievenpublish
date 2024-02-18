@@ -1,5 +1,5 @@
 {
-  "name": "howdoievenpublish",
+  "name": "@Chinmay-KB/howdoievenpublish",
   "version": "1.0.0",
   "description": "I am trying to figure out how to publish packages to npm",
   "main": "dist/index.js",
