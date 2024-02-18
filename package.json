@@ -1,5 +1,5 @@
 {
-  "name": "@Chinmay-KB/howdoievenpublish",
+  "name": "howdoievenpublish",
   "version": "1.0.0",
   "description": "I am trying to figure out how to publish packages to npm",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "build": "tsc"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Chinmay-KB"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
