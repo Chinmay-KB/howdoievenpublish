@@ -1,0 +1,23 @@
+{
+  "name": "howdoievenpublish",
+  "version": "1.0.0",
+  "description": "I am trying to figure out how to publish packages to npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinmay-KB/howdoievenpublish.git"
+  },
+  "author": "Chinmay-KB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinmay-KB/howdoievenpublish/issues"
+  },
+  "homepage": "https://github.com/Chinmay-KB/howdoievenpublish#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
